@@ -1,8 +1,5 @@
 ## Flix Part 1
 
-### User Stories
-`TODO://` In the **User Stories section below**, add an `x` in the `-[ ]` like this `- [x]` for any user story you complete. (🚫 Remove this paragraph after after checking off completed user stories)
-
 #### REQUIRED (10pts)
 - [X] (10pts) User can view a list of movies (title, poster image, and overview) currently playing in theaters from the Movie Database API.
 
@@ -15,7 +12,7 @@
 - [ ] (2pts) Improved the user interface by experimenting with styling and coloring.
 - [ ] (2pts) For popular movies (i.e. a movie voted for more than 5 stars), the full backdrop image is displayed. Otherwise, a poster image, the movie title, and overview is listed. Use Heterogenous RecyclerViews and use different ViewHolder layout files for popular movies and less popular ones.
 
-<img src="YOUR_GIF_URL_HERE" width=250><br>
+![flix](https://user-images.githubusercontent.com/57205445/132789445-52e322a6-7a55-4930-a0d5-ebc9eb26f17f.gif)
 
 ### Open-source libraries used
 
