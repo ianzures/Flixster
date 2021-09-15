@@ -19,7 +19,7 @@
 
 ### App Walkthough GIF
 
-![walkthrough](https://user-images.githubusercontent.com/57205445/133323512-bb397359-c34a-4949-b122-a86cb1a62ae1.gif)
+![walkthrough](https://user-images.githubusercontent.com/57205445/133450644-e75f1fd0-e78d-4020-a64b-3565dd530d7a.gif)
 
 ### Notes
 
